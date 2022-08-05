@@ -45,6 +45,8 @@ class ProductObserver
      */
     public function updated(Product $product)
     {
+        $product->slug_name=$product->product_name;
+        $product->slug_name = \Str::slug($product->slug_name);
         $product->unique_id = 'Pr+'.$product->id;
         $product->save();
     }

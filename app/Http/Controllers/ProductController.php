@@ -5,6 +5,9 @@ namespace App\Http\Controllers;
 use App\Models\Product;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
+use App\Jobs\StoreMailJob;
+use App\Jobs\UpdateMailJob;
+use App\Models\User;
 use Illuminate\Support\Facades\Log;
 class ProductController extends Controller
 {
@@ -16,7 +19,7 @@ class ProductController extends Controller
     public function index()
     {
         $user_id= Auth::id();
-        $products = Product::where('user_id',$user_id)->latest()->paginate(5);
+        $products = Product::where('user_id',$user_id)->paginate(10);
       
         return view('products.index',compact('products','user_id'))
             ->with('i', (request()->input('page', 1) - 1) * 5);
@@ -41,12 +44,19 @@ class ProductController extends Controller
      */
     public function store(Request $request)
     {  
+        
         $request->validate([
             'product_name' => 'required',
             'price' => 'required',
         ]);
       
         Product::create($request->all());
+        $user_id = $request->user_id;
+        $user= User::find($user_id);
+        $product_name=$request->product_name;
+        $price = $request->price;
+        $job = new StoreMailJob($user,$product_name,$price);
+        dispatch($job);
        
         return redirect()->route('products.index')
                         ->with('success','Product created successfully.');
@@ -107,6 +117,12 @@ class ProductController extends Controller
         ]);
       
         $product->update($request->all());
+        $user_id = $request->user_id;
+        $user= User::find($user_id);
+        $product_name=$request->product_name;
+        $price = $request->price;
+        $job = new UpdateMailJob($user,$product_name,$price);
+        dispatch($job);
       
         return redirect()->route('products.index')
                         ->with('success','Product updated successfully');

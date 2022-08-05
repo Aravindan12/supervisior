@@ -1,0 +1,4579 @@
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+
+      [2m+17 vendor frames [22m   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+   InvalidArgumentException 
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+      [2m+17 vendor frames [22m
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+   InvalidArgumentException 
+
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+      [2m+17 vendor frames [22m
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+
+      [2m+17 vendor frames [22m   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+      [2m+17 vendor frames [22m
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+   InvalidArgumentException 
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  The [DATABASE] queue connection has not been configured.
+
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+      [2m+17 vendor frames [22m
+
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+
+      [2m+17 vendor frames [22m
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
+
+   InvalidArgumentException 
+
+  The [DATABASE] queue connection has not been configured.
+
+  at /var/www/html/supervisior/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php:159
+    155▕     {
+    156▕         $config = $this->getConfig($name);
+    157▕ 
+    158▕         if (is_null($config)) {
+  ➜ 159▕             throw new InvalidArgumentException("The [{$name}] queue connection has not been configured.");
+    160▕         }
+    161▕ 
+    162▕         return $this->getConnector($config['driver'])
+    163▕                         ->connect($config)
+
+      [2m+17 vendor frames [22m
+  18  /var/www/html/supervisior/artisan:37
+      Illuminate\Foundation\Console\Kernel::handle()
