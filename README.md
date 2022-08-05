@@ -7,45 +7,56 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About SUPERVISIOR
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Supervisor is basically linux based daemon that runs in the background. We have to configure our laravel app so that supervisor know about background jobs. Make sure in above file to change the location of your project directory by replacing /var/www/app.com and to replace user with your linux logged in user id.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Supervisor is mainly for running queue without any artisan command and we can view logs in the code
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Steps for installation Supervisor    
 
-## Learning Laravel
+- First step is to use this command "sudo apt-get install supervisor"
+- Move to conf.d directory by using "cd /etc/supervisor/conf.d"
+- Create a  new file in the directory "laravel-worker.conf" with ".conf" extension
+- Fill the following code in the file you created
+    [program:laravel-worker]
+        process_name=%(program_name)s_%(process_num)02d
+        command=php /("path of your project")/artisan queue:work  --sleep=3 --tries=3 --max-time=3600
+        autostart=true
+        autorestart=true
+        stopasgroup=true
+        killasgroup=true
+        user=forge  --> ("is your local username")
+        numprocs=8
+        redirect_stderr=true
+        stdout_logfile=/home/("path location for where this supervisor log need to be stored in your project")/worker.log
+        stopwaitsecs=3600
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+-  Use the following three codes to start supervisor and if it correct it shows :
+-   sudo supervisorctl reread --> shows ("laravel-worker: changed")
+-   sudo supervisorctl update --> shows ("laravel-worker: updated process group")
+-   sudo supervisorctl start laravel-worker:* 
+        -->shows ("laravel-worker:laravel-worker_02: started")
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Other Command for Supervisor
 
-## Laravel Sponsors
+- sudo service supervisor stop
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- sudo service supervisor start
 
-### Premium Partners
+- sudo supervisorctl restart all
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+- sudo service supervisor status
+
+
+
+
+### Blog Refered
+
+Use this blog --|
+
+- **[Laravel documentation](https://laravel.com/docs/9.x/queues#supervisor-configuration/)**
+
 
 ## Contributing
 
