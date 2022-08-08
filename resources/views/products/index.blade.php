@@ -26,7 +26,7 @@
             <th>Product Name</th>
             <th>Price</th>
             <th>Slug Name</th>
-            <th>Unique Id</th>
+            <th name="unique_id" value="1">Unique Id</th>
             <th width="280px">Action</th>
         </tr>
         @foreach ($products as $product)

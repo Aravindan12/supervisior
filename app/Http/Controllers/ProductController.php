@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use App\Jobs\StoreMailJob;
 use App\Jobs\UpdateMailJob;
+use App\Jobs\ProductJob;
 use App\Models\User;
 use Illuminate\Support\Facades\Log;
 class ProductController extends Controller
@@ -50,11 +51,18 @@ class ProductController extends Controller
             'price' => 'required',
         ]);
       
-        Product::create($request->all());
         $user_id = $request->user_id;
         $user= User::find($user_id);
         $product_name=$request->product_name;
         $price = $request->price;
+        $unique_id = $request->unique_id;
+        Product::create([
+            'user_id'=>$user_id,
+            'product_name'=>$product_name,
+            'price'=>$price,
+            'unique_id'=> $unique_id
+        ]);
+        // dd(1);dd
         $job = new StoreMailJob($user,$product_name,$price);
         dispatch($job);
        
@@ -115,12 +123,20 @@ class ProductController extends Controller
             'product_name' => 'required',
             'price' => 'required',
         ]);
-      
-        $product->update($request->all());
         $user_id = $request->user_id;
         $user= User::find($user_id);
         $product_name=$request->product_name;
+        $slug_name = \Str::slug($product_name);
+        $unique_id = 'Pr'.$product->id;
         $price = $request->price;
+        $product->update([
+            'user_id'=>$user_id,
+            'product_name'=>$product_name,
+            'slug_name'=>$slug_name,
+            'price'=>$price,
+            'unique_id'=>$unique_id
+        ]);
+       
         $job = new UpdateMailJob($user,$product_name,$price);
         dispatch($job);
       

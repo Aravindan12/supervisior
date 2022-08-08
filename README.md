@@ -64,8 +64,12 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
+- Laravel Accessors and Mutators are custom, user defined methods used in this project.
+- Accessors and Mutators are used in the model.
+- Accessor syntax is [getParamAttribute]() while for  Mutators [setParamAttribute]()
+- Accessors is to get the value from db and show that value in the user's need.
+- Mutators is to set the value in db and store 
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
